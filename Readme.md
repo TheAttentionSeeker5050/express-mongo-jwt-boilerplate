@@ -6,6 +6,17 @@ A quick template to work on Express, Mongo and JWT backend API's
 <br>
 <br>
 
+## About the environment
+
+<br>
+
+- This project was made on node.js 18
+- You need a Mongo Atlas account and have a cluster set up
+- You need to set up environment variables on the server. In case you are deploying your service to the cloud, please refer to your cloud provider's guides for instructions on environment variables.
+
+<br>
+<br>
+
 ## How to install locally
 <br>
 <br>
